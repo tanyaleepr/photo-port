@@ -10,10 +10,7 @@ function App() {
         <About></About>
       </main>
     </div>
-  )
+  );
 }
-
- 
-
 
 export default App;
