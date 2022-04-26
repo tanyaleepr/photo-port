@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tanyaleepr/photo-port/static/css/main.d668da6f.css",
-    "main.js": "/tanyaleepr/photo-port/static/js/main.b223280c.js",
-    "static/js/787.137aa76a.chunk.js": "/tanyaleepr/photo-port/static/js/787.137aa76a.chunk.js",
-    "static/media/0.jpg": "/tanyaleepr/photo-port/static/media/0.aae354cffe126735c6a7.jpg",
-    "static/media/2.jpg": "/tanyaleepr/photo-port/static/media/2.73361bef8e26b971e197.jpg",
-    "static/media/1.jpg": "/tanyaleepr/photo-port/static/media/1.863e6935e38396aecb5d.jpg",
-    "static/media/3.jpg": "/tanyaleepr/photo-port/static/media/3.dd376ef9a77aa73dbb1b.jpg",
-    "static/media/4.jpg": "/tanyaleepr/photo-port/static/media/4.3b0c40e1612f92a7c758.jpg",
-    "static/media/cover-image.jpg": "/tanyaleepr/photo-port/static/media/cover-image.533ae8f6f0bf6c415f11.jpg",
-    "index.html": "/tanyaleepr/photo-port/index.html",
-    "main.d668da6f.css.map": "/tanyaleepr/photo-port/static/css/main.d668da6f.css.map",
-    "main.b223280c.js.map": "/tanyaleepr/photo-port/static/js/main.b223280c.js.map",
-    "787.137aa76a.chunk.js.map": "/tanyaleepr/photo-port/static/js/787.137aa76a.chunk.js.map"
+    "main.css": "/photo-port/static/css/main.d668da6f.css",
+    "main.js": "/photo-port/static/js/main.ee3e6f23.js",
+    "static/js/787.137aa76a.chunk.js": "/photo-port/static/js/787.137aa76a.chunk.js",
+    "static/media/0.jpg": "/photo-port/static/media/0.aae354cffe126735c6a7.jpg",
+    "static/media/2.jpg": "/photo-port/static/media/2.73361bef8e26b971e197.jpg",
+    "static/media/1.jpg": "/photo-port/static/media/1.863e6935e38396aecb5d.jpg",
+    "static/media/3.jpg": "/photo-port/static/media/3.dd376ef9a77aa73dbb1b.jpg",
+    "static/media/4.jpg": "/photo-port/static/media/4.3b0c40e1612f92a7c758.jpg",
+    "static/media/cover-image.jpg": "/photo-port/static/media/cover-image.533ae8f6f0bf6c415f11.jpg",
+    "index.html": "/photo-port/index.html",
+    "main.d668da6f.css.map": "/photo-port/static/css/main.d668da6f.css.map",
+    "main.ee3e6f23.js.map": "/photo-port/static/js/main.ee3e6f23.js.map",
+    "787.137aa76a.chunk.js.map": "/photo-port/static/js/787.137aa76a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d668da6f.css",
-    "static/js/main.b223280c.js"
+    "static/js/main.ee3e6f23.js"
   ]
 }
